@@ -1,64 +1,55 @@
-### Hi there 👋 My name is Ismayil Mammadov. Welcome to my GitHub page.
+<h1>Hi, I'm ISMAYIL YASHAR! <br/><a href="https://github.com/ismayilyashar">Computer Systems Technician</a>, <a href="https://www.linkedin.com/in/ismayilyashar/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@ismayilmammadov8469/about">YouTuber</a></h1>
 
-**m2m3w1/m2m3w1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 My Cybersecurity Projects:</h2>
 
-## ABOUT ME:
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-My name is Ismayil Mammadov. I am QA Automation Test Engineer
-ismayil.mmdv@aol.com | 437 - 231 - 4954 | Toronto, ON M2M3W1, Canada
+<h2>📺 Popular YouTube Videos</h2>
 
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-[Ismayil Mammadov's Linkedin profile](https://www.linkedin.com/in/ismayil-mammadov-483a6a223/)
+<h2> 🤳 Connect with me:</h2>
 
-## My core skills:
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-Java, HTML, CSS, Java Script, SQL, Gherkin (Cucumber), Python, Selenium WebDriver, TestNG, JUnit, Cucumber, API Restful, POSTMAN, Rest Assured, Build/CI/TM Tools	Jira,
-GitHub, Maven, CI/CD JENKINS, Databases	Oracle, MySQL (JDBC), Behavior-Driven Development(BDD), Test-Driven Development(TDD), Page Object Model(POM), IDE	Eclipse, 
-IntelliJ, Agile-Scrum, Waterfall.
-
-<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=m2m3w1&label=Profile%20views&color=0e75b6&style=flat" alt="m2m3w1" /> 
-</p>
-
-<!-- trophies. replace username with yours-->
-<p align="left"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=m2m3w1" alt="m2m3w1" />
-	</a> 
-</p>
-
-## *YouTube VIDEO:
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=kRPGPAnPNa8" target="_blank"><img src="http://img.youtube.com/vi/kRPGPAnPNa8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<h1> *National anthem of the Republic of Azerbaijan: </h1>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=SaB_LzfLgPw" target="_blank"><img src="http://img.youtube.com/vi/SaB_LzfLgPw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-- 🔭 I’m currently working on a new project.
-- 🌱 I’m currently learning Python programming language.
-- 👯 I’m looking to collaborate on QA Automation Test Engineering.
-- 🤔 I’m looking for help with finding a new job.
-- 💬 Ask me about my work experience and challenges.
-- 📫 How to reach me: +1 437 231 4954, ismayil.mmdv@aol.com
-- 😄 Pronouns: Mr.
-- ⚡ Fun fact: ;)
-
-
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m2m3w1&show_icons=true&locale=en&layout=compact" alt="m2m3w1" />
-</p>
-
-<!--  github stats  -->
-<p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=m2m3w1&show_icons=true&locale=en" alt="m2m3w1" />
-</p>
-
-<!-- streak stats  -->
-<p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m2m3w1&" alt="m2m3w1" />
-</p>
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
+[youtube]: https://www.youtube.com/@ismayilmammadov8469/about
 
+[linkedin]: www.linkedin.com/in/ismayil-mammadov
+
+
+<!--
+** ismayilyashar/Ismayil-Mammadov---Cybersecurity-Repository ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
